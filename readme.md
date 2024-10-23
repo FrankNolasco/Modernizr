@@ -26,3 +26,6 @@ Modernizr is dual-licensed under the [BSD and MIT licenses](http://www.modernizr
 #### Try it out: 
 
 Run the test suite: [http://modernizr.github.com/Modernizr/test/](http://modernizr.github.com/Modernizr/test/)
+
+
+### This is a comment test
